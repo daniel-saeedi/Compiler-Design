@@ -1,0 +1,18 @@
+Line 2: Class Person is in an inheritance cycle
+Line 5: Redefinition of field age
+Line 6: Redefinition of method initialize
+Line 7: Name of local variable x conflicts with a global variable’s name
+Line 11: Redefinition of method showName
+Line 17: Redefinition of class Person
+Line 25: Class Student is in an inheritance cycle
+Line 26: Redefinition of field age
+Line 29: Redefinition of method initialize
+Line 47: Redefinition of method showName
+Line 48: Name of local variable x conflicts with a global variable’s name
+Line 50: Name of local variable x conflicts with a global variable’s name
+Line 52: Redefinition of method updateSid
+Line 62: Redefinition of local variable cid
+Line 66: Name of method credits conflicts with a field’s name
+Line 72: Redefinition of field name
+Line 73: Redefinition of method initialize
+Line 79: Redefinition of method showName
