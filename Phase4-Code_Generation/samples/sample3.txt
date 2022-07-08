@@ -1,0 +1,15 @@
+--------------------------Compiling--------------------------
+Compilation Successful
+
+-------------------Generating Class Files-------------------
+Generated: Array.class
+Generated: Fptr.class
+Generated: Glob@l.class
+Generated: Main.class
+
+---------------------------Output---------------------------
+2
+3
+4
+5
+6

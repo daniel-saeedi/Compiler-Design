@@ -1,0 +1,13 @@
+--------------------------Compiling--------------------------
+Compilation Successful
+
+-------------------Generating Class Files-------------------
+Generated: Array.class
+Generated: Fptr.class
+Generated: Main.class
+Generated: Sample.class
+
+---------------------------Output---------------------------
+10
+8
+0
