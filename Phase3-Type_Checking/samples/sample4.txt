@@ -1,0 +1,6 @@
+Line 1: Main class not found
+Line 14: Condition must be bool
+Line 14: Unsupported operand type for operator ternary
+Line 15: Args in method call do not match with definition
+Line 16: Constructor args do not match with definition of class B
+Line 19: Return value does not match with method return type

@@ -1,0 +1,8 @@
+Line 8: Access on non-class
+Line 9: Calling a non-callable
+Line 10: There is no member named x in class Course
+Line 13: Left side of assignment must be a valid lvalue
+Line 14: Condition must be bool
+Line 15: Lvalue is required as the operand of postinc
+Line 15: Unsupported operand type for operator postinc
+Line 24: Return value does not match with method return type

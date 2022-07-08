@@ -1,0 +1,6 @@
+Line 13: Method apply should not have a return statement
+Line 13: Method apply should not have a return statement
+Line 14: There is no member named x in class A
+Line 25: Return value does not match with method return type
+Line 35: Unsupported operand type for operator assign
+Line 35: Cannot use return value of a method having void return type
